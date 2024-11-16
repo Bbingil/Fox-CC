@@ -30,8 +30,8 @@ def logo():
     figlet = Figlet(font="standard").renderText("Fox CC")
     return (gn + figlet)
 print (logo())
-print (bl + "[-] Powered by Black Fox Security Team ")
-print (gn + "[+] Made By Maximum Radikali")
+print (bl + "[-] Powered by Brent Bingil ")
+print (gn + "[+] Made By BGB TECH")
 print (cy + "[=] Fox CC Tools Version : 1.1")
 
 opr = input (mag + "\n[x] 1) Generate single valid cc\n[x] 2) Generate multi valid cc (generate cc list)\n[x] 3) CC validator\n[x] 4) Generate Multi Bin Number \n\n[^] Please Enter an option :  ")
